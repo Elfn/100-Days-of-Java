@@ -3,9 +3,9 @@
 
 A little of Java content every day for a hundred days.
 
-----
- If you have any questions, ask me on my https://thegreatapi.com/social-media/[social media]. 
----- 
+
+# If you have any questions, ask me on my https://thegreatapi.com/social-media/[social media]. 
+ 
 
 == Day 1 - Generating a random number within a specific range.
 
